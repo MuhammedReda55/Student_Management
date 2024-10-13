@@ -1,0 +1,14 @@
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\bin\Debug\net8.0\task_student_maanagment.exe
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\bin\Debug\net8.0\task_student_maanagment.deps.json
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\bin\Debug\net8.0\task_student_maanagment.runtimeconfig.json
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\bin\Debug\net8.0\task_student_maanagment.dll
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\bin\Debug\net8.0\task_student_maanagment.pdb
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\obj\Debug\net8.0\task_student_maanagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\obj\Debug\net8.0\task_student_maanagment.AssemblyInfoInputs.cache
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\obj\Debug\net8.0\task_student_maanagment.AssemblyInfo.cs
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\obj\Debug\net8.0\task_student_maanagment.csproj.CoreCompileInputs.cache
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\obj\Debug\net8.0\task_student_maanagment.dll
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\obj\Debug\net8.0\refint\task_student_maanagment.dll
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\obj\Debug\net8.0\task_student_maanagment.pdb
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\obj\Debug\net8.0\task_student_maanagment.genruntimeconfig.cache
+C:\Users\mohahmed\Desktop\Back-End.NET\Tasks\Student_Management\task_student_maanagment\task_student_maanagment\obj\Debug\net8.0\ref\task_student_maanagment.dll
